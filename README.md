@@ -34,7 +34,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Isaie-Hotel](https://github.com/MugishaIsaie/isaie-hotel) | A modern hotel booking app to book cabins, manage guests, and more. | React, Styled-components, Supabase |
-| [My-Pizzass-shop](https://github.com/MugishaIsaie/my-pizzass-shop) | A pizza ordering app with cart, checkout, and real-time updates. | React, Tailwind CSS, Firebase |
+| [My-Pizzass-shop](https://github.com/MugishaIsaie/My-Pizzas-Shop) | A pizza ordering app with cart, checkout, and real-time updates. | React, Tailwind CSS, Firebase |
 
 ---
 
