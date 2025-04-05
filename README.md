@@ -15,7 +15,7 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,styledcomponents,bootstrap,php,mysql,git,github,vscode,firebase,supabase,python,node,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,styledcomponents,bootstrap,php,mysql,git,github,vscode,firebase,supabase,python,nodejs,jquery" />
 </p>
 
 ---
