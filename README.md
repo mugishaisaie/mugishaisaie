@@ -8,8 +8,6 @@
 🛠️ Currently building: **Isaie-Hotel** – a full-featured hotel booking app  
 ✅ Recently completed: **My-Pizzass-shop** – an online pizza ordering platform
 
-🌍 Based in Rwanda |Kenya Open to freelance and remote work
-
 ---
 
 ### 🧰 Languages and Tools
@@ -35,15 +33,6 @@
 |--------|-------------|------------|
 | [Isaie-Hotel](https://github.com/MugishaIsaie/isaie-hotel) | A modern hotel booking app to book cabins, manage guests, and more. | React, Styled-components, Supabase |
 | [My-Pizzass-shop](https://github.com/MugishaIsaie/My-Pizzas-Shop) | A pizza ordering app with cart, checkout, and real-time updates. | React, Tailwind CSS, Firebase |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MugishaIsaie&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MugishaIsaie&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
