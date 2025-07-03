@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mugisha Isaie</h1>
-<h3 align="center">Frontend Web Developer | Innovative Web Developer | Problem Solver </h3>
+<h3 align="center">Experienced Web Developer and Instructor</h3>
 
 ---
 
@@ -27,12 +27,6 @@
 
 ---
 
-### 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Isaie-Hotel](https://github.com/MugishaIsaie/isaie-hotel) | A modern hotel booking app to book cabins, manage guests, and more. | React, Styled-components, Supabase |
-| [My-Pizzass-shop](https://github.com/MugishaIsaie/My-Pizzas-Shop) | A pizza ordering app with cart, checkout, and real-time updates. | React, Tailwind CSS, Firebase |
 
 ---
 
