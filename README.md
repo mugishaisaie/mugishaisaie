@@ -61,8 +61,8 @@ I select the best tools for the problem at hand, focusing on scalable architectu
 ---
 
 ### 📫 Let's Connect
-* 📺 **YouTube:** [MITECH Academy](https://www.youtube.com/) *(Subscribe for advanced Web Dev tutorials in Kinyarwanda!)*
-* 💼 **LinkedIn:** [Isaie Mugisha](https://www.linkedin.com/)
+* 📺 **YouTube:** [MITECH HUB](https://www.youtube.com/@MITECHHUBhq) *(Subscribe for advanced Web Dev tutorials in Kinyarwanda!)*
+* 💼 **LinkedIn:** [Mugisha Isaie](https://www.linkedin.com/in/mugisha-isaie/)
 * 📧 **Email:** Reach out for agency inquiries or academy collaborations.
 
 </div>
