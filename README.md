@@ -9,11 +9,10 @@
 
 ### 🚀 About Me
 
-I am a Full-Stack Web Developer based in Rwanda, specializing in building high-performance, user-centric applications. As the founder of **MITECH RWANDA**, I split my time between **MITECH Agency** (delivering enterprise systems for clients) and **MITECH Academy** (creating elite tech education content). 
+I am a Full-Stack Web Developer based in Rwanda, specializing in building high-performance, user-centric applications. As the founder of **MITECH HUB**, I split my time between **MITECH Agency** (delivering enterprise systems for clients) and **MITECH Academy** (creating elite tech education content). 
 
 * 🏢 **Currently Building:** The official **MITECH HUB** platform (React, Node.js, PostgreSQL) to host highly secure, DRM-protected coding courses.
 * 💻 **Featured Projects:** I architected **Ambara Shop** (a modern e-commerce platform), **Tura System** (a comprehensive real estate management system), and **ElectroHub**.
-* 🎓 **Education:** Studying IT at IPRC Tumba while actively running my software businesses.
 * ⚡ **Quote I Live By:** *"Code with purpose. Build with passion. Grow through practice."*
 
 ---
